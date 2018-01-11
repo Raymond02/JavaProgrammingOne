@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author Raymond Luong
  */
 public class P6 {
-
+ 
     /**
      * Main Method
      *
