@@ -3,7 +3,7 @@ package Chapter1;
 /**
  * Program to display "Welcome to Java
  *                     Welcome to computer Science
- *                     Programming is fun" to the console
+ *                     Programming is fun" to the console"
  *
  * @author Raymond Luong
  */
