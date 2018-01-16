@@ -3,7 +3,8 @@ package Chapter2;
 import java.util.Scanner;
 
 /**
- * Program to display "Enter the radius and length of a cylinder:" to the console
+ * Program to display "Enter the radius and length of a cylinder:" to the
+ * console
  *
  * @author Raymond Luong
  */
