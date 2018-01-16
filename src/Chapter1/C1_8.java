@@ -1,8 +1,7 @@
 package Chapter1;
 
 /**
- * Program to display "34.55751918948772
-                       95.03317777109125" to the console
+ * Program to display "34.55751918948772 95.03317777109125" to the console
  *
  * @author Raymond Luong
  */

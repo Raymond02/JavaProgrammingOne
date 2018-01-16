@@ -3,7 +3,8 @@ package Chapter5;
 import java.util.Scanner;
 
 /**
- * Program to display "Enter ‘Y’ to vote yes, ‘N’ to vote no, or ‘Q’ to quit voting:"
+ * Program to display "Enter ‘Y’ to vote yes, ‘N’ to vote no, or ‘Q’ to quit
+ * voting:"
  *
  * @author Raymond Luong
  */

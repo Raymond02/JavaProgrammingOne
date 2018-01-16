@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author Raymond Luong
  */
 public class P6 {
- 
+
     /**
      * Main Method
      *
@@ -64,7 +64,14 @@ public class P6 {
         }
     }
 
-    //method for converting selected currency to american dollars
+    /**
+     * Method for converting selected currency to american dollars
+     *
+     * @param Dollars amount of dollars
+     * @param Exchange converting to dollars
+     * @return final price of the dollars
+     */
+    //
     public static double Convert(double Dollars, double Exchange) {
         if (Dollars >= 100.00) {
             Dollars = Dollars - (Dollars * .05);

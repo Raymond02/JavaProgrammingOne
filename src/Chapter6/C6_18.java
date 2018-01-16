@@ -26,6 +26,12 @@ public class C6_18 {
         }
     }
 
+    /**
+     * Method check
+     *
+     * @param PW the string we are checking
+     * @return true/false based of if password is valid
+     */
     public static boolean check(String PW) {
         boolean isValid = true;
         if (PW.length() < 8) {
