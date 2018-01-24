@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * Program shows array of workers timestamp
- * 
+ *
  * @author Raymond Luong
  */
 public class C8_4 {
