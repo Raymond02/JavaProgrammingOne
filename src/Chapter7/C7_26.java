@@ -38,8 +38,8 @@ public class C7_26 {
     /**
      * Method to compare two lists
      *
-     * @param list1
-     * @param list2
+     * @param list1 first list of data
+     * @param list2 second lists of data
      * @return true or false depending on if the lists match
      */
     public static boolean identical(int[] list1, int[] list2) {

@@ -3,7 +3,8 @@ package Chapter8;
 import java.util.Scanner;
 
 /**
- *
+ * Program array of salesman with user input
+ * 
  * @author Raymond Luong
  */
 public class P8 {
